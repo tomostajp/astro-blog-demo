@@ -1,3 +1,5 @@
+解説動画はこちら → [YouTube](https://www.youtube.com/watch?v=tgW_GnfMr8o)
+
 # Astro Starter Kit: Basics
 
 ```
